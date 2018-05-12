@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8428
     wikipedia: http://en.wikipedia.org/wiki/Wilfred_Grenfell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24832#Labrador-DaysTales-of-the-Sea-Toilers
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2008-03-15'
 gutenberg_type: Text
