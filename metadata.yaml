@@ -1,0 +1,37 @@
+_repo: Labrador-DaysTales-of-the-Sea-Toilers_24832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grenfell, Wilfred Thomason, Sir
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '8428'
+    url: http://www.gutenberg.org/2009/agents/8428
+    wikipedia: http://en.wikipedia.org/wiki/Wilfred_Grenfell
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Outdoor life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Big game fishing -- Fiction'
+- !lcsh 'Labrador (N.L.) -- Fiction'
+tableOfContents: There's trouble on the sea -- Nancy -- Sally's "turns" -- The doctor's
+  big fee -- Two cat's-paws -- The triple alliance -- Portland Bill -- Kaiachououk
+  -- Two Christmases -- The leading light -- The Red Island shoals.
+title: 'Labrador Days
+
+  Tales of the Sea Toilers'
+url: http://www.gutenberg.org/ebooks/24832
